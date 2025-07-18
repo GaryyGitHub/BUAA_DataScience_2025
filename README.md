@@ -15,7 +15,12 @@
   - **经济与背景类**：学费缴纳情况、年龄、专业、家庭背景等
 - 目标变量：学生最终状态（Dropout / Enrolled / Graduate）
 
-## 运行方法
+## 使用方法
 
-只需运行 `jupyter notebook` 即可，逐块执行。
+`./code.ipynb`: 只需运行 `jupyter notebook` 即可，逐块执行。
 
+`./essay.pdf`: 项目论文
+
+`./dataset.csv`: kaggle数据集
+
+`./presentation.pptx`: 汇报PPT
